@@ -1,2 +1,3 @@
 # GamesModes
-Game modes
+Game modes:
+* Death Match mode with Fusion
